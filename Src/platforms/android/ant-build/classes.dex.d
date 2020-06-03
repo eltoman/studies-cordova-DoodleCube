@@ -1,0 +1,24 @@
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes.dex : \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/BuildConfig.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/R$string.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/R$integer.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/R$drawable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/R.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/R$attr.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/rubikDoodle.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/org/doodle/rubikDoodle/R$xml.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$DestroyBannerViewRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$RequestInterstitialAdRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$InterstitialListener.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$1.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$RequestAdRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$ShowAdRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$CreateInterstitialViewRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$AdMobRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$CreateBannerViewRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$BasicListener.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$BannerListener.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob$RequestAdBasicRunnable.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/AdMob.class \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/dexedLibs/classes-39110b5524a4ada9ede490052afd934e.jar \
+/home/elton/Documents/cordova_workspace/rubikDoodle/platforms/android/ant-build/dexedLibs/google-play-services-0ac6993ff7398d14467ba8c110cb023e.jar \
